@@ -1,0 +1,4 @@
+# ScrollViewWithSDWebImage
+配合SDWebImage使用的ScrollView
+此版本的轮播是配合第三方网络图片加载库SDWebImage所使用的
+欢迎下载使用，喜欢的话，给个星星
